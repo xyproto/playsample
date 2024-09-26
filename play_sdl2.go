@@ -1,4 +1,4 @@
-//go:build sdl2
+//go:build !ff
 
 package playsample
 
